@@ -1,7 +1,7 @@
 /** * A short description of the program.
  * @author Seungho HAM
  * SID 60191982
- * assignment java - lab8
+ * assignment jav
  * date 2022.11.15
  * + construct
  */
